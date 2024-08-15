@@ -1,0 +1,27 @@
+.q-div{
+    width: 100%;
+    margin-top: 20px;
+    
+}
+.question{
+    width: 75%;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    padding: 10px;
+    background-color: antiquewhite;
+    border: 2px solid gray;
+}
+.q-span{
+    font-weight: bold;
+}
+.heading{
+    font-weight: bolder;
+    color: blueviolet;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+.container{
+    background-color:darkgrey;
+    width:550px;
+}

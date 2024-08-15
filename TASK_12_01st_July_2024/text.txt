@@ -1,0 +1,20 @@
+echo -e "const apiKey='';\n\nexport default apiKey;">apikey.js
+Universe	let api_key = "mbnseP9wZhqxEwfZiIBvYeajBkGdTl9botm0K3kH";
+echo -e "const apiKey='';\n\nexport default apiKey;">apikey.js
+
+echo -e "const apiKey='';\n\nexport default apiKey;">apikey.js
+
+echo -e "const apiKey='';\n\nexport default apiKey;">apikey.js
+
+
+AI & ML
+Blockchain
+Cloud Computing
+Cyber Security
+Data Science
+DevOps
+Digital Marketing
+Full Stack Development
+Software Automation & Testing
+UI/UX Designing
+
